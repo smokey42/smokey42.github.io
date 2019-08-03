@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body { color: #222; }
+
+li, p {
+    font-size: 1.3em;
+    line-height: 1.3em;
+}
